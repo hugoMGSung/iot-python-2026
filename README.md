@@ -411,8 +411,7 @@ IoT 개발자 파이썬 리포지토리
     - C로 개발 C++로 변경
     - 모든 언어에서 사용할 수 있도록 래핑 라이브러리가 존재
 
-
-- OpenCV Python
+- OpenCV Python - [노트북](./day05/ex26_opencv_start.ipynb)
     - OpenCV를 파이썬에 사용하도록 만든 래핑 라이브러리
     - 코드 간결, AI/딥러닝과 연결 쉬움, 데이터 분석 통합 가능
     - C++ OpenCV보다 속도가 느림 -> PyTorch로 속도 개선
@@ -421,3 +420,9 @@ IoT 개발자 파이썬 리포지토리
     - 영상처리 쪽 코덱이 필요
     - https://www.videolan.org/vlc/index.ko.html 
     - https://livecodec.co.kr/
+
+- OpenCV 간단 이미지에디터 - [소스](./day05/ex27_cv_editor.py)
+    - 대비/밝기, 블러, 엣지, 회전, 이진화 기능, 이미지 로드/저장
+    - 실행화면
+
+    ![alt text](image-13.png)

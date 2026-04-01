@@ -416,6 +416,10 @@ IoT 개발자 파이썬 리포지토리
     - 코드 간결, AI/딥러닝과 연결 쉬움, 데이터 분석 통합 가능
     - C++ OpenCV보다 속도가 느림 -> PyTorch로 속도 개선
 
+    ```bash
+    > pip install opencv-python
+    ```
+    
 - VLC
     - 영상처리 쪽 코덱이 필요
     - https://www.videolan.org/vlc/index.ko.html 

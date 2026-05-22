@@ -638,3 +638,12 @@ IoT 개발자 파이썬 리포지토리
     - 공식 github : https://github.com/ultralytics/ultralytics 
 
 - 이미지, 영상 인식
+
+- YOLO 설치
+
+    ```powershell
+    > pip install ultralytics huggingface_hub
+    ```
+
+TODO - 영상업로드
+

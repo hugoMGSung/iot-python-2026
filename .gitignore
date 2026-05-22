@@ -211,5 +211,9 @@ iot-venv/
 # 제외시킬 데이터폴더
 day10/cust_models/
 day10/dataset/
+day11/data/
+runs/
 # 모델파일은 제외
 *.pth
+# 100메가 넘는파일 반드시 제외
+day11/yolo11x.pt  

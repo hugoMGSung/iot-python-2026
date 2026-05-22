@@ -645,5 +645,9 @@ IoT 개발자 파이썬 리포지토리
     > pip install ultralytics huggingface_hub
     ```
 
-TODO - 영상업로드
+
+https://github.com/user-attachments/assets/79273d45-8b9c-49cb-86f4-67cf50e824bc
+
+
+
 
